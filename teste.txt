@@ -1,6 +1,6 @@
 1	Arquivo de teste para conflito	
 2
-3	Arquivo da Turma DS-B (A melhor turma) 
+3	Arquivo da Turma DS-B (A melhor turma, mas aceitamos incluir a turma A) 
 4
 5
 6	Conteúdo 1
